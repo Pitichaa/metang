@@ -1,0 +1,263 @@
+.box{
+    background-color: #4e73df;
+    display:inline-block;
+    height: 1000px;
+    width: 300px;
+    border-radius: 10px;
+    
+}
+
+.box > div {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 25px;
+    left: 30px;
+    border-radius: 10px;
+    margin: left 8px;
+    background-image: url('./me/me.jpg');    
+    background-size: cover;
+    background-position: center;
+}
+
+.box > div > div{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 135px;
+    left: 30px;
+    border-radius: 50%;
+    margin: left 8px;
+}
+
+.box > div > div > div {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 75px;
+    border-radius: 50%;
+    margin: left 8px;
+}
+
+
+.box > div > div > div > div {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 35px;
+    border-radius: 50%;
+    margin: left 8px;
+}
+
+.box > div > div > div > div > div {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 80px;
+    border-radius: 50%;
+    margin: left 8px;
+}
+
+.box > div > div > div > div > div {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 80px;
+    border-radius: 50%;
+    margin: left 8px;
+}
+
+.box > div > div > div > div > div > div {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 35px;
+    border-radius: 50%;
+    margin: left 8px;
+}
+
+.box > div > div > div > div > div > div > div {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 38px;
+    border-radius: 50%;
+    margin: left 8px;
+}
+
+.interface{
+    font-size: 9px;
+    text-align: left;   
+}
+
+.boxkhwa{
+    display: inline-block;
+    width: 1600px;
+    height: 80px;
+    background-color: #f8f9fc;
+    float:center;
+    position: absolute;
+    border-radius: 10px; 
+    border-bottom:solid rgba(0, 0, 0, 0.048);
+    
+}
+
+.boxkhwa > div{
+   width: 300px;
+   height: 60px;
+   background-color:  #d9dfe9a3;
+   position: absolute;
+   left: 30px;
+   top: 11px;
+   border-radius: 10px;
+}
+.boxkhwa > div > div {
+   width: 55px;
+   height: 50px;
+   background-color: #d1d3e2;
+   position: absolute;
+   left: 1000px;
+   top: 0px;
+   border-radius: 50%;
+}
+
+.boxkhwa > div > div > div {
+   width: 55px;
+   height: 50px;
+   background-color: #d1d3e2;
+   position: absolute;
+   left: 60px;
+   top: 0px;
+   border-radius: 50%;
+}
+ 
+.boxkhwa > div > div > div > div {
+   width: 300px;
+   height: 60px;
+   background-color:   #d9dfe9a3;
+   position: absolute;
+   left: 100px;
+   top: 0px;
+   border-radius: 10%;
+}
+
+.boxkhwa > div > div > div > div > div {
+    width: 50px;
+    height: 50px;
+    background-color: #d1d3e2;
+    position: absolute;
+    left: 240px;
+    top: 6px;
+    border-radius: 90%;
+ }
+
+.Dashboard {
+background-color: white;
+width: 1550px;
+height: 80px;
+
+}
+.Dashboard > div > p {
+    color: black; 
+    font-size: 65px;
+    position: absolute;
+    line-height: 80px;
+    font-weight: bold;
+    left: -1200px;
+    top: -71px;  
+}
+.Dashboard > div {
+    width: 150px;
+    height: 40px;
+    background-color:  #4e73df;
+    position: absolute;
+    left: 1550px;
+    top: 100px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+
+.block {       
+    background-color:  #d9dfe9a3;
+    width: 265px;
+    height: 80px;
+    position: absolute;
+    left: 350px;
+    top: 200px;
+    border-radius: 10px;
+}
+
+.block > div
+{
+width: 265px;
+    height: 80px;
+    background-color:  #d9dfe9a3;
+    position: absolute;
+    left: 320px;
+    top: px;
+    border-radius: 10px;
+}
+
+.block > div > div
+{
+    width: 265px;
+    height: 80px;
+    background-color:  #d9dfe9a3;
+    position: absolute;
+    left: 320px;
+
+    border-radius: 10px;
+}
+
+.block > div > div > div 
+{
+background-color:  #d9dfe9a3;
+    width: 265px;
+    height: 80px;
+    position: absolute;
+    left: 320px;
+   
+    border-radius: 10px;
+}
+
+.garp {
+    width: 750px;
+    height: 400px;
+    background-color:  #d9dfe9a3;
+    position: absolute;
+    left: 350px;
+    top: 300px;
+    border-radius: 10px;
+}
+.garp > div{
+    width: 450px;
+    height: 400px;
+    background-color:  #d9dfe9a3;
+    position: absolute;
+    left: 1000px;
+    border-radius: 50%;
+}
+
+p{
+    color: aliceblue;
+    cursor: pointer;
+    font-family:'Segoe UI', sans-serif;
+}
+
